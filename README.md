@@ -127,15 +127,18 @@ Response:
    cd SHL-Assessment-Recommendation-System
    ```
 
-2. Install dependencies:
-   \`\`\`
+2. ### Install dependencies:
+  ```sh
    npm install
-   \`\`\`
-3. Run the development server:
-   \`\`\`
+    ```
+
+3. ### Run the development server:
+   ``` sh
    npm run dev
-   \`\`\`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+   ```
+
+4. ### Running Sever
+Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Deployment
 
@@ -153,3 +156,21 @@ The system achieves the following performance on the test dataset:
 - MAP@3: 0.6832
 
 These metrics indicate that the system effectively retrieves relevant assessments and ranks them appropriately.
+
+
+## Connect with Me 🚀
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManeeshKum14044)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maneeshmkp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneeshmkp/)
+
+
+## License 📜  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## Keep Learning and Exploring 🚀  
+
+Happy coding! 😊 If you find this project helpful, give it a ⭐ on GitHub!  
