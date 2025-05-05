@@ -2,7 +2,9 @@
 
 This project implements an intelligent recommendation system that helps hiring managers find the right SHL assessments for their roles. Given a natural language query or job description, the system returns a list of relevant SHL assessments.
 
-## Features
+![Alt Text](FrontImage.jpg)
+
+## Features 📌
 
 - Natural language query processing
 - Job description analysis
@@ -11,7 +13,7 @@ This project implements an intelligent recommendation system that helps hiring m
 - Web interface for easy interaction
 - Evaluation metrics (Mean Recall@3 and MAP@3)
 
-## Project Structure
+## Project Structure 📂
 
 \`\`\`
 shl-recommendation-system/
@@ -45,6 +47,9 @@ The system collects assessment data from SHL's product catalog using a web scrap
 - Duration
 - Test type
 - Description
+
+![Alt Text](AssesFind.jpg)
+
 
 ### Recommendation Engine
 
@@ -117,6 +122,11 @@ Response:
 ### Installation
 
 1. Clone the repository
+ ```sh
+   git clone https://github.com/maneeshmkp/SHL-Assessment-Recommendation-System
+   cd SHL-Assessment-Recommendation-System
+   ```
+
 2. Install dependencies:
    \`\`\`
    npm install
